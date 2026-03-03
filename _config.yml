@@ -23,7 +23,7 @@ remote_theme: mmistakes/minimal-mistakes
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5
+paginate: 0
 paginate_path: /page:num/
 timezone: America/Chicago
 

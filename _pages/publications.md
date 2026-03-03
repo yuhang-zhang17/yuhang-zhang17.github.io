@@ -75,9 +75,9 @@ https://doi.org/10.63044/w24zha94
 Liu, M., Zhang, Y., Yang, Z., & O’Neill, Z. (2026).  
 Revisions submitted to *Energy*  
 
----
+<!-- ---
 
 ### A High-Fidelity Model Predictive Control Framework for Temperature Optimization in 5th-Generation District Heating and Cooling Networks
 
 Zhang, Y., Liu, M., O’Neill, Z., & Wen, J. (2026).  
-Manuscript submitted to *Energy*  
+Manuscript submitted to *Energy*   -->

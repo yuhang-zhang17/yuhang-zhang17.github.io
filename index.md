@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: single
 author_profile: true
+title: "Yuhang Zhang"
 ---
 
 ## Engineering Scalable District Energy Systems for Building Electrification

@@ -4,8 +4,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-# Contact
-
 I welcome opportunities for research collaboration, industry partnerships, and R&D positions in building energy systems, thermal networks, and model predictive control.
 
 ---

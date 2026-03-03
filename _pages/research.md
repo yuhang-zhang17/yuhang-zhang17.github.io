@@ -4,8 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 I develop scalable modeling, optimization, and intelligent control frameworks for building and district energy systems. My work focuses on improving energy efficiency, operational flexibility, and electrification readiness of HVAC&R infrastructure through physics-based simulation, predictive control, and techno-economic analysis.
 
 ---

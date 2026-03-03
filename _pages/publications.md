@@ -4,10 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
----
-
 ## Journal Articles
 
 ### A Nationwide Assessment of Energy Flexibility from Predictive-Controlled Heat Pump and Active Thermal Energy Storage System for Building Electrification

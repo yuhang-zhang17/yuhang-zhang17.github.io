@@ -4,8 +4,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-# Professional Experience
-
 ## Pacific Northwest National Laboratory (PNNL)  
 **Ph.D. Intern | Summer 2025**
 

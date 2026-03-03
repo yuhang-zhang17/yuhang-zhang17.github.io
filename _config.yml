@@ -3,9 +3,9 @@ title: Yuhang Zhang
 email: yuhang.zhang@tamu.edu
 
 description: >-
-  Ph.D. student in Mechanical Engineering at Texas A&M University.
-  Research focuses on district energy systems, thermal microgrids,
-  and model predictive control (MPC) with physics-based and data-driven modeling.
+  Ph.D. student researcher developing scalable modeling and optimization
+  for building and district energy systems. Focus areas include HVAC&R energy efficiency,
+  intelligent controls (MPC), heat pump technologies, and electrification of the built environment.
 
 # If this repo is yuhang-zhang17.github.io (user/organization site)
 url: "https://yuhang-zhang17.github.io"
@@ -24,7 +24,7 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 0
-paginate_path: /page:num/
+# paginate_path: /page:num/
 timezone: America/Chicago
 
 include:
@@ -32,7 +32,7 @@ include:
 
 # Plugins
 plugins:
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -43,7 +43,7 @@ plugins:
 author:
   name   : "Yuhang Zhang"
   avatar : "/assets/images/bio-photo.jpg"  # later replace with your headshot
-  bio    : "Ph.D. student at Texas A&M University. District energy systems • Thermal microgrids • MPC • Modeling & optimization."
+  bio: "Energy systems modeling & optimization • Intelligent controls (MPC) • HVAC&R efficiency • Heat pumps • Electrification"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -74,16 +74,16 @@ footer:
 # Defaults
 defaults:
   # _posts (optional blog; tuned for job-market site)
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: false
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: false
+  #     share: false
+  #     related: true
 
   # _pages
   - scope:
@@ -93,12 +93,12 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
 analytics:
   provider: "google-gtag"
   google:

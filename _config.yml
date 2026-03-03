@@ -1,54 +1,36 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+title: Yuhang Zhang
+email: yuhang.zhang@tamu.edu
+
+description: >-
+  Ph.D. student in Mechanical Engineering at Texas A&M University.
+  Research focuses on district energy systems, thermal microgrids,
+  and model predictive control (MPC) with physics-based and data-driven modeling.
+
+# If this repo is yuhang-zhang17.github.io (user/organization site)
+url: "https://yuhang-zhang17.github.io"
+baseurl: ""  # keep empty for user site
+
+github_username: yuhang-zhang17
+# twitter_username:  # not needed for job-search academic site
+
 minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -57,38 +39,41 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Author profile (sidebar)
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Yuhang Zhang"
+  avatar : "/assets/images/bio-photo.jpg"  # later replace with your headshot
+  bio    : "Ph.D. student at Texas A&M University. District energy systems • Thermal microgrids • MPC • Modeling & optimization."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:yuhang.zhang@tamu.edu"
+
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=RaCbNBcAAAAJ&hl=en"
+
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yuhangzhang3"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/yuhang-zhang17"
 
+# Footer links (keep minimal)
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/yuhang-zhang17"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:yuhang.zhang@tamu.edu"
 
+# Defaults
 defaults:
-  # _posts
+  # _posts (optional blog; tuned for job-market site)
   - scope:
       path: ""
       type: posts
@@ -96,9 +81,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
+
   # _pages
   - scope:
       path: "_pages"

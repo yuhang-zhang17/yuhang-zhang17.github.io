@@ -14,7 +14,7 @@ baseurl: ""  # keep empty for user site
 github_username: yuhang-zhang17
 # twitter_username:  # not needed for job-search academic site
 
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 
 # Build settings

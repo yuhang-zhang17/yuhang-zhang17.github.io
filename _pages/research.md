@@ -1,86 +1,97 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-## Journal Articles
+# Research
 
-**Zhang, Y.**, Liu, M., O’Neill, Z., & Wen, J. (2024).  
-Temperature control strategies for fifth-generation district heating and cooling systems: A review and case study.  
-*Applied Energy, 376, 124156.*  
-https://doi.org/10.1016/j.apenergy.2024.124156  
-- Comprehensive review and case study on temperature optimization strategies for 5GDHC systems  
-- Established control-performance comparison framework for district-scale electrified heating networks  
-
-Liu, M., **Zhang, Y.**, Yang, Z., & O’Neill, Z. (2026).  
-A Nationwide Assessment of Energy Flexibility from Predictive-Controlled Heat Pump and Active Thermal Energy Storage System for Building Electrification.  
-*Building Simulation (Accepted, in press).*  
-- Nationwide-scale evaluation of energy flexibility enabled by MPC-controlled heat pump + thermal storage systems  
-- Quantified flexibility potential supporting building electrification  
-
-Liu, R., **Zhang, Y.**, & Li, Z. (2022).  
-Leakage Diagnosis of Air Conditioning Water System Networks Based on an Improved BP Neural Network Algorithm.  
-*Buildings, 12(5).*  
-https://doi.org/10.3390/buildings12050610  
-- Developed machine-learning-based diagnostic framework for water network leakage detection  
-- Improved fault detection accuracy using enhanced BP neural network algorithm  
+I develop scalable modeling, optimization, and intelligent control frameworks for building and district energy systems. My work focuses on improving energy efficiency, operational flexibility, and electrification readiness of HVAC&R infrastructure through physics-based simulation, predictive control, and techno-economic analysis.
 
 ---
 
-## Conference Proceedings
+## Research Areas
 
-**Zhang, Y.**, Liu, M., O’Neill, Z., & Wen, J. (2025).  
-Operating temperature optimization for a 5th-generation district heating and cooling network using model predictive control.  
-*2025 ASHRAE Winter Conference, Orlando, FL.*  
-https://doi.org/10.63044/w25zha66  
-- Applied MPC to optimize district network operating temperature  
-- Demonstrated efficiency improvement potential at system level  
-
-Li, G., **Zhang, Y.**, Liu, M., et al. (2025).  
-Modeling and integration of photovoltaic thermal (PVT) hybrid solar collectors in a fifth-generation district heating and cooling network (5GDHC).  
-*Building Simulation 2025.*  
-https://doi.org/10.26868/25222708.2025.1393  
-- Developed integrated solar-thermal network modeling framework  
-- Evaluated renewable integration into district-scale thermal systems  
-
-**Zhang, Y.**, Liu, M., Yang, Z., Calfa, C., & O’Neill, Z. (2024).  
-Development and validation of a water-to-air heat pump model using Modelica.  
-*American Modelica Conference 2024, 119–126.*  
-“Best Student Paper” Award  
-https://doi.org/10.3384/ECP207119  
-- Built and validated high-fidelity heat pump model in Modelica  
-- Enabled scalable district-level system simulation  
-
-**Zhang, Y.**, Liu, M., O’Neill, Z., & Wen, J. (2024).  
-Comparative analysis of ultra-low temperature district heating and cooling networks with different substation configurations.  
-*ASHRAE Transactions, 130, 796–805.*  
-https://doi.org/10.63044/w24zha94  
-- Evaluated substation configuration impacts on district network efficiency  
-- Provided performance benchmarks for 5GDHC deployment  
+- Building and district energy system modeling  
+- Intelligent control and optimization (Model Predictive Control)  
+- HVAC&R energy efficiency and system performance  
+- Heat pump technologies and system integration  
+- Thermal energy storage (TES) optimization  
+- Electrification and decarbonization of the built environment  
 
 ---
 
-## Under Review
-
-Liu, M., **Zhang, Y.**, Yang, Z., & O’Neill, Z. (2026).  
-Comparative Study of Energy Flexibility in Model Predictive Control of Single- and Variable-Speed Heat Pumps with Active Thermal Energy Storage.  
-*Revisions submitted to Energy.*  
-
-**Zhang, Y.**, Liu, M., O’Neill, Z., & Wen, J. (2026).  
-A High-Fidelity Model Predictive Control Framework for Temperature Optimization in 5th-Generation District Heating and Cooling Networks.  
-*Manuscript submitted to Energy.*  
+## Selected Research Projects
 
 ---
 
-## Selected Conference Presentations (Invited / Competitive)
+### AI-Enabled District Heat Pump Systems  
+**Sponsor:** National Science Foundation (NSF PIRE)  
+🔗 [NSF Award 2309030](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309030)
 
-“Feasibility of Geothermal Borefield Integration in a 5th-Generation District Thermal Energy Network: A Case Study of an Oklahoma Tribal Community”  
-- Texas A&M Geothermal Research Symposium (Apr 2025)  
-- 2nd Place Poster Award  
+- Developed a high-fidelity virtual testbed integrating EnergyPlus and Modelica models  
+- Designed MPC-based optimal control strategies for district-scale heat pump systems  
+- Evaluated renewable and waste heat recovery integration (e.g., data center heat reuse)  
+- Assessed energy flexibility potential for electrified district infrastructure  
 
-“Building Decarbonization with a 5GDHC System: Case Study of an Oklahoma Tribal Community”  
-- Texas A&M Conference on Energy (Sep 2024)  
+**Technical Focus:** hybrid modeling • MPC • system optimization • flexibility analysis  
 
-“A Comparative Analysis of Energy Performance of Ultra-Low Temperature District Heating and Cooling Networks”  
-- BAS 2024 – Building Automation Symposium (May 2024)  
+---
+
+### Building Decarbonization via Thermal Infrastructure Retrofit  
+**Sponsor:** U.S. Department of Defense – SERDP / ESTCP  
+🔗 [SERDP-ESTCP Project Page](https://serdp-estcp.mil/projects/details/5561805a-f46a-4854-8f74-cc252917fa0c)
+
+- Developed validated Modelica digital twins for 30+ buildings  
+- Integrated machine-learning load forecasting models  
+- Implemented MPC-based plant optimization and temperature reset strategies  
+- Achieved up to ~70% modeled energy reduction  
+- Conducted 30-year life-cycle cost analysis  
+
+**Technical Focus:** digital twin modeling • predictive control • lifecycle cost modeling  
+
+---
+
+### Solar-Geothermal District Electrification Demonstration  
+**Sponsor:** U.S. Department of Energy (DOE)  
+🔗 [DOE Solar-Geothermal Project Information](https://www.energy.gov/nepa/articles/cx-028810-demonstration-solar-geothermal-district-heating-and-cooling-system-single)
+
+- Designed modeling framework for fully electrified geothermal district systems  
+- Developed detailed component-level PVT hybrid solar collector models  
+- Optimized borehole configuration and loop temperature control strategies  
+- Reduced projected electricity consumption by 38%  
+- Eliminated natural gas usage in retrofit scenario  
+
+**Technical Focus:** renewable integration • system-level simulation • electrification modeling  
+
+---
+
+## National Lab Experience
+
+### Thermal Energy Storage Optimization – Pacific Northwest National Laboratory (PNNL)
+
+- Validated DOE Thermal Energy Storage (TES) Sizing Tool via 240+ parametric simulations  
+- Evaluated time-of-use and dynamic tariff scenarios  
+- Designed optimized TES control strategies achieving up to 85% simulated cost reduction  
+- Contributed to DOE Stor4Build consortium on grid-interactive efficient buildings (GEBs)  
+
+**Technical Focus:** tariff optimization • control strategy design • parametric analysis  
+
+---
+
+## Engineering Contributions
+
+- Built reusable high-fidelity heat pump models (Modelica-based)  
+- Developed scalable MPC frameworks for system-level energy optimization  
+- Integrated physics-based and data-driven modeling workflows  
+- Quantified energy flexibility and operational cost savings under dynamic conditions  
+- Conducted long-term techno-economic evaluations for electrified infrastructure  
+
+---
+
+## Tools & Technical Stack
+
+**Modeling & Simulation:** Modelica/Dymola, EnergyPlus  
+**Optimization & Control:** Model Predictive Control (MPC), nonlinear optimization  
+**Programming:** Python, MATLAB  
+**Applications:** Heat pumps, TES, HVAC&R systems, building-to-district energy systems  

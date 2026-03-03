@@ -23,7 +23,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ## Selected Federally Funded Projects
 
-### AI-Enabled District Heat Pump Systems  
+### PIRE: Building Decarbonization via AI-empowered District Heat Pump Systems
 **Sponsor:** National Science Foundation (NSF PIRE)  
 🔗 [NSF Award 2309030](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309030)
 
@@ -36,7 +36,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ---
 
-### Building Decarbonization via Thermal Infrastructure Retrofit  
+### Demonstration of Building Energy Efficiency through Thermal Microgrids in Fort Hood - Phase I Feasibility Study
 **Sponsor:** U.S. Department of Defense – SERDP / ESTCP  
 🔗 [SERDP-ESTCP Project Page](https://serdp-estcp.mil/projects/details/5561805a-f46a-4854-8f74-cc252917fa0c)
 
@@ -50,7 +50,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ---
 
-### Solar-Geothermal District Electrification Demonstration  
+### Demonstration of a Solar-Geothermal District Heating and Cooling System with a Single Pipe Loop in Citizen Potawatomi Nation
 **Sponsor:** U.S. Department of Energy (DOE)  
 🔗 [DOE Solar-Geothermal Project Information](https://www.energy.gov/nepa/articles/cx-028810-demonstration-solar-geothermal-district-heating-and-cooling-system-single)
 

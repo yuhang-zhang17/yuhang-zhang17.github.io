@@ -10,103 +10,74 @@ author_profile: true
 
 ## Journal Articles
 
-### Zhang, Y., Liu, M., O’Neill, Z., & Wen, J. (2024)  
-**Temperature Control Strategies for Fifth-Generation District Heating and Cooling Systems: A Review and Case Study**  
-*Applied Energy, 376, 124156*  
-🔗 [DOI: 10.1016/j.apenergy.2024.124156](https://doi.org/10.1016/j.apenergy.2024.124156)
+### A Nationwide Assessment of Energy Flexibility from Predictive-Controlled Heat Pump and Active Thermal Energy Storage System for Building Electrification
 
-**Technical Contribution**
-- Comprehensive review and system-level evaluation of temperature optimization strategies for 5GDHC networks  
-- Developed comparative control-performance framework for electrified district energy systems  
+Liu, M., Zhang, Y., Yang, Z., & O’Neill, Z. (2026).  
+*Building Simulation (In print, accepted).*  
 
 ---
 
-### Liu, M., Zhang, Y., Yang, Z., & O’Neill, Z. (2026)  
-**Nationwide Assessment of Energy Flexibility from Predictive-Controlled Heat Pump and Active Thermal Energy Storage Systems**  
-*Building Simulation (Accepted, In Press)*  
+### Temperature control strategies for fifth-generation district heating and cooling systems: A review and case study
 
-**Technical Contribution**
-- Large-scale evaluation of building electrification flexibility enabled by MPC-controlled heat pumps  
-- Quantified aggregated flexibility potential supporting grid-interactive district energy systems  
+Zhang, Y., Liu, M., O’Neill, Z., & Wen, J. (2024).  
+*Applied Energy, 376, 124156.*  
+https://doi.org/10.1016/j.apenergy.2024.124156  
 
 ---
 
-### Liu, R., Zhang, Y., & Li, Z. (2022)  
-**Leakage Diagnosis of Air Conditioning Water System Networks Using an Improved BP Neural Network**  
-*Buildings, 12(5)*  
-🔗 [DOI: 10.3390/buildings12050610](https://doi.org/10.3390/buildings12050610)
+### Leakage Diagnosis of Air Conditioning Water System Networks Based on an Improved BP Neural Network Algorithm
 
-**Technical Contribution**
-- Developed machine-learning-based diagnostic framework for hydronic network leakage detection  
-- Improved fault detection robustness using enhanced neural network architecture  
+Liu, R., Zhang, Y., & Li, Z. (2022).  
+*Buildings, 12(5).*  
+https://doi.org/10.3390/buildings12050610  
 
 ---
 
 ## Conference Proceedings
 
-### Zhang, Y., Liu, M., O’Neill, Z., & Wen, J. (2025)  
-**Operating Temperature Optimization for a 5GDHC Network Using Model Predictive Control**  
-*ASHRAE Winter Conference 2025*  
-🔗 [DOI: 10.63044/w25zha66](https://doi.org/10.63044/w25zha66)
+### Operating temperature optimization for a 5th-generation district heating and cooling network using model predictive control
 
-- Applied MPC to district-scale temperature optimization  
-- Demonstrated system-level efficiency improvement potential  
+Zhang, Y., Liu, M., O’Neill, Z., & Wen, J. (2025).  
+*2025 ASHRAE Winter Conference, Orlando, FL.*  
+https://doi.org/10.63044/w25zha66  
 
 ---
 
-### Li, G., Zhang, Y., Liu, M., et al. (2025)  
-**Modeling and Integration of Photovoltaic Thermal (PVT) Hybrid Solar Collectors in a 5GDHC Network**  
-*Building Simulation 2025*  
-🔗 [DOI: 10.26868/25222708.2025.1393](https://doi.org/10.26868/25222708.2025.1393)
+### Modeling and integration of photovoltaic thermal (PVT) hybrid solar collectors in a fifth-generation district heating and cooling network (5GDHC)
 
-- Developed integrated solar-thermal network modeling framework  
-- Evaluated renewable integration in district-scale thermal systems  
+Li, G., Zhang, Y., Liu, M., O’Neill, Z., Song, L., Wang, G., Cai, J., & Wu, X. (2025).  
+*Proceedings of Building Simulation 2025.*  
+https://doi.org/10.26868/25222708.2025.1393  
 
 ---
 
-### Zhang, Y., Liu, M., Yang, Z., Calfa, C., & O’Neill, Z. (2024)  
-**Development and Validation of a Water-to-Air Heat Pump Model Using Modelica**  
-*American Modelica Conference 2024, 119–126*  
-🏆 Best Student Paper Award  
-🔗 [DOI: 10.3384/ECP207119](https://doi.org/10.3384/ECP207119)
+### Development and validation of a water-to-air heat pump model using Modelica
 
-- Built and validated high-fidelity heat pump model in Modelica  
-- Enabled scalable district-level performance simulation  
+Zhang, Y., Liu, M., Yang, Z., Calfa, C., & O’Neill, Z. (2024).  
+*Proceedings of the American Modelica Conference 2024, 119–126.*  
+Best Student Paper Award  
+https://doi.org/10.3384/ECP207119  
 
 ---
 
-### Zhang, Y., Liu, M., O’Neill, Z., & Wen, J. (2024)  
-**Comparative Analysis of Ultra-Low Temperature District Heating and Cooling Networks**  
-*ASHRAE Transactions, 130, 796–805*  
-🔗 [DOI: 10.63044/w24zha94](https://doi.org/10.63044/w24zha94)
+### A comparative analysis of energy performance of ultra-low temperature district heating and cooling networks with different substation configurations
 
-- Quantified substation configuration impacts on district network efficiency  
-- Provided performance benchmarks for 5GDHC deployment  
+Zhang, Y., Liu, M., O’Neill, Z., & Wen, J. (2024).  
+*ASHRAE Transactions, 130, 796–805.*  
+https://doi.org/10.63044/w24zha94  
 
 ---
 
 ## Under Review
 
-### Liu, M., Zhang, Y., Yang, Z., & O’Neill, Z. (2026)  
-**Comparative Study of Energy Flexibility in MPC-Controlled Heat Pump Systems**  
-*Revisions Submitted to Energy*
+### Comparative Study of Energy Flexibility in Model Predictive Control of Single- and Variable-Speed Heat Pumps with Active Thermal Energy Storage
+
+Liu, M., Zhang, Y., Yang, Z., & O’Neill, Z. (2026).  
+Revisions submitted to *Energy*  
 
 ---
 
-### Zhang, Y., Liu, M., O’Neill, Z., & Wen, J. (2026)  
-**High-Fidelity Model Predictive Control Framework for Temperature Optimization in 5GDHC Networks**  
-*Manuscript Submitted to Energy*
+### A High-Fidelity Model Predictive Control Framework for Temperature Optimization in 5th-Generation District Heating and Cooling Networks
 
----
-
-## Selected Conference Presentations
-
-**Geothermal Borefield Integration in a 5GDHC Network: Oklahoma Tribal Community Case Study**  
-Texas A&M Geothermal Research Symposium (Apr 2025)  
-🏆 2nd Place Poster Award  
-
-**Building Decarbonization Using 5GDHC Systems: Oklahoma Tribal Community Case Study**  
-Texas A&M Conference on Energy (Sep 2024)
-
-**Energy Performance Analysis of Ultra-Low Temperature District Heating Networks**  
-BAS 2024 – Building Automation Symposium (May 2024)
+Zhang, Y., Liu, M., O’Neill, Z., & Wen, J. (2026).  
+Manuscript submitted to *Energy*  

@@ -103,3 +103,10 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-26RKROFW3W"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true

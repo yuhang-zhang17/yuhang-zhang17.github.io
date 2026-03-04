@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 classes: wide
-title: "About
+title: "About"
 ---
 
 <!-- # Advancing Intelligent Energy Systems Through Modeling and Optimization -->

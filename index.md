@@ -1,10 +1,12 @@
 ---
 layout: single
 author_profile: true
-title: "Yuhang Zhang"
+classes: wide
+title: "About
 ---
 
-# Advancing Intelligent Energy Systems Through Modeling and Optimization
+<!-- # Advancing Intelligent Energy Systems Through Modeling and Optimization -->
+I am a Ph.D. Studnet in the Department of Mechanical Engineering at Texas A&M University.
 
 I develop scalable modeling and control frameworks for building and district energy systems, with a focus on improving efficiency, operational flexibility, and electrification readiness.
 
@@ -29,6 +31,3 @@ My work integrates physics-based modeling and simulation, data-driven methods, a
 - Hybrid physics-informed and data-driven modeling  
 - Scalable optimization frameworks for energy infrastructure  
 
----
-
-*Ph.D. Student in Mechanical Engineering, Texas A&M University*  

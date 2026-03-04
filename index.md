@@ -6,7 +6,7 @@ title: "About
 ---
 
 <!-- # Advancing Intelligent Energy Systems Through Modeling and Optimization -->
-I am a Ph.D. Studnet in the Department of Mechanical Engineering at Texas A&M University.
+I am a Ph.D. Student in the Department of Mechanical Engineering at Texas A&M University.
 
 I develop scalable modeling and control frameworks for building and district energy systems, with a focus on improving efficiency, operational flexibility, and electrification readiness.
 

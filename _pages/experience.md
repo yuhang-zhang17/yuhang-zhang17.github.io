@@ -1,6 +1,8 @@
 ---
 title: "Professional Experience"
 permalink: /experience/
+layout: single
+classes: wide
 author_profile: true
 ---
 

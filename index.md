@@ -8,7 +8,7 @@ title: "Yuhang Zhang"
 
 I develop scalable modeling and control frameworks for building and district energy systems, with a focus on improving efficiency, operational flexibility, and electrification readiness.
 
-My work integrates physics-based simulation, data-driven methods, and model predictive control (MPC) to optimize HVAC&R systems, heat pump technologies, and next-generation energy infrastructure.
+My work integrates physics-based modeling and simulation, data-driven methods, and predictive control to optimize HVAC&R systems, heat pump technologies, and next-generation energy infrastructure.
 
 ---
 
@@ -17,8 +17,7 @@ My work integrates physics-based simulation, data-driven methods, and model pred
 - Building and district energy system modeling  
 - Intelligent building controls and optimization  
 - HVAC&R energy efficiency  
-- Heat pump system modeling and performance analysis  
-- Energy system analysis and management  
+- Energy system analysis and management 
 - Electrification and decarbonization of the built environment  
 
 ---

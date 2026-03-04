@@ -30,6 +30,7 @@ I welcome opportunities for research collaboration, industry partnerships, and R
 - Building HVAC&R Energy Efficiency  
 - Energy System Analysis and Management  
 - Intelligent Building Controls and Optimization  
+- Data Center Waste Heat Recovery
 - Heat Pump Technologies  
 
 ---

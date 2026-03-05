@@ -12,6 +12,8 @@ I develop scalable modeling and control frameworks for building and district ene
 
 My work integrates physics-based modeling and simulation, data-driven methods, and predictive control to optimize HVAC&R systems, heat pump technologies, and next-generation energy infrastructure.
 
+Download: **[CV (PDF)](/assets/CV_YuhangZhang.pdf)** (last updated: 3/4/2026)
+
 ---
 
 ## Core Expertise

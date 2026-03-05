@@ -25,12 +25,14 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ### PIRE: Building Decarbonization via AI-empowered District Heat Pump Systems
 **Sponsor:** National Science Foundation (NSF PIRE)  
-🔗 [NSF Award 2309030](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309030)
+🔗 [Award Details](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309030)
 
-- Developed a high-fidelity virtual testbed integrating EnergyPlus and Modelica models  
-- Designed MPC-based optimal control strategies for district-scale heat pump systems  
-- Evaluated renewable and waste heat recovery integration (e.g., data center heat reuse)  
-- Assessed energy flexibility potential for electrified district infrastructure  
+- Developed a high-fidelity virtual testbed of district heat pump systems by integrating physics-based thermal models (EnergyPlus, Modelica) with AI-driven predictive control frameworks.
+- Built a Modelica-based fault library to represent common component faults in district and building energy systems and generate datasets for fault detection and diagnosis studies.
+- Developed and validated a water-to-air heat pump model using experimental datasets for accurate component-level performance prediction. [Github](https://github.com/BE-HVACR/heatpump-models)
+- Designed Model Predictive Control (MPC)-based optimal control frameworks for intelligent district energy system operation.
+- Applied the framework to assess renewable and waste heat integration (e.g., data center recovery), demonstrating improved efficiency and carbon reduction potential.
+
 
 **Technical Focus:** hybrid modeling • MPC • system optimization • flexibility analysis  
 
@@ -38,13 +40,13 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ### Demonstration of Building Energy Efficiency through Thermal Microgrids in Fort Hood - Phase I Feasibility Study
 **Sponsor:** U.S. Department of Defense – SERDP / ESTCP  
-🔗 [SERDP-ESTCP Project Page](https://serdp-estcp.mil/projects/details/5561805a-f46a-4854-8f74-cc252917fa0c)
+🔗 [Award Details](https://serdp-estcp.mil/projects/details/5561805a-f46a-4854-8f74-cc252917fa0c)
 
-- Developed validated Modelica digital twins for 30+ buildings  
-- Integrated machine-learning load forecasting models  
-- Implemented MPC-based plant optimization and temperature reset strategies  
-- Achieved up to ~70% modeled energy reduction  
-- Conducted 30-year life-cycle cost analysis  
+- Conducted technical modeling and analysis for a DoD-funded study on district heating and cooling system retrofit.
+- Developed and validated Modelica digital twins and machine-learning load forecasting models for 30+ buildings.
+- Implemented model predictive control optimization for plant operation and temperature reset strategies.
+- Demonstrated up to ~70% modeled energy reduction and performed 30-year life-cycle cost analysis.
+
 
 **Technical Focus:** digital twin modeling • predictive control • lifecycle cost modeling  
 
@@ -52,13 +54,14 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ### Demonstration of a Solar-Geothermal District Heating and Cooling System with a Single Pipe Loop in Citizen Potawatomi Nation
 **Sponsor:** U.S. Department of Energy (DOE)  
-🔗 [DOE Solar-Geothermal Project Information](https://www.energy.gov/nepa/articles/cx-028810-demonstration-solar-geothermal-district-heating-and-cooling-system-single)
+🔗 [Award Details](https://www.energy.gov/nepa/articles/cx-028810-demonstration-solar-geothermal-district-heating-and-cooling-system-single)
 
-- Designed modeling framework for fully electrified geothermal district systems  
-- Developed detailed component-level PVT hybrid solar collector models  
-- Optimized borehole configuration and loop temperature control strategies  
-- Reduced projected electricity consumption by 38%  
-- Eliminated natural gas usage in retrofit scenario  
+- Contributed to the design of a 100% electrified geothermal district energy system for an Oklahoma tribal community.
+- Developed an integrated simulation framework for system-level performance evaluation and annual operation analysis.
+- Developed detailed component-level models of PVT hybrid panels in Modelica.
+- Supported optimization of borehole design and loop temperature control strategies.
+- Reduced projected electricity consumption by 38% and eliminated natural gas use in retrofit scenario.
+
 
 **Technical Focus:** renewable integration • system-level simulation • electrification modeling  
 

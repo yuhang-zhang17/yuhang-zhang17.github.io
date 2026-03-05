@@ -1,4 +1,5 @@
 # Site settings
+future: false
 title: Yuhang Zhang
 email: yuhang.zhang@tamu.edu
 
@@ -73,24 +74,17 @@ footer:
 
 # Defaults
 defaults:
-  # _posts (optional blog; tuned for job-market site)
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: false
-  #     share: false
-  #     related: true
-
-  # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
+      author_profile: true
+
+  - scope:
+      path: ""
+      type: pages
+    values:
       author_profile: true
 
 # category_archive:
@@ -103,10 +97,3 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-26RKROFW3W"
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      author_profile: true

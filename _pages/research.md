@@ -29,7 +29,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 - Developed a high-fidelity virtual testbed of district heat pump systems by integrating physics-based thermal models (EnergyPlus, Modelica) with AI-driven predictive control frameworks.
 - Built a Modelica-based fault library to represent common component faults in district and building energy systems and generate datasets for fault detection and diagnosis studies.
-- Developed and validated a water-to-air heat pump model using experimental datasets for accurate component-level performance prediction. [Github](https://github.com/BE-HVACR/heatpump-models)
+- Developed and validated a water-to-air heat pump model using experimental datasets for accurate component-level performance prediction. 🔗 [Github link](https://github.com/BE-HVACR/heatpump-models)
 - Designed Model Predictive Control (MPC)-based optimal control frameworks for intelligent district energy system operation.
 - Applied the framework to assess renewable and waste heat integration (e.g., data center recovery), demonstrating improved efficiency and carbon reduction potential.
 
@@ -74,7 +74,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 - Validated DOE Thermal Energy Storage (TES) Sizing Tool via 240+ parametric simulations  
 - Evaluated time-of-use and dynamic tariff scenarios  
 - Designed optimized TES control strategies achieving up to 85% simulated cost reduction  
-- Contributed to DOE Stor4Build consortium on grid-interactive efficient buildings (GEBs)  
+- Contributed to [DOE Stor4Build consortium](https://www.energy.gov/eere/buildings/stor4build) on grid-interactive efficient buildings (GEBs)  
 
 **Technical Focus:** tariff optimization • control strategy design • parametric analysis  
 
@@ -82,7 +82,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ## Engineering Contributions
 
-- Built reusable high-fidelity heat pump models (Modelica-based)  
+- Built reusable high-fidelity heat pump models (Modelica-based) 🔗[Github link](https://github.com/BE-HVACR/heatpump-models)
 - Developed scalable MPC frameworks for system-level energy optimization  
 - Integrated physics-based and data-driven modeling workflows  
 - Quantified energy flexibility and operational cost savings under dynamic conditions  

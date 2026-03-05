@@ -11,7 +11,7 @@ author_profile: true
 
 - Validated DOE Thermal Energy Storage (TES) Sizing Tool via 240+ parametric simulations  
 - Designed optimized TES control strategies achieving up to 85% simulated cost reduction  
-- Contributed to DOE Stor4Build consortium for grid-interactive efficient buildings  
+- Contributed to [DOE Stor4Build consortium](https://www.energy.gov/eere/buildings/stor4build) for grid-interactive efficient buildings  
 
 ---
 

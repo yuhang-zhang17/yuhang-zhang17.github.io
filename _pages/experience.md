@@ -16,7 +16,7 @@ author_profile: true
 ---
 
 ## Texas A&M University  
-**Graduate Research Assistant | 2023–Present**
+**Graduate Research Assistant | 2023–Present**<br>
 Advisor: Dr. Zheng O’Neill
 - Developed high-fidelity simulation frameworks for building and district energy systems  
 - Designed MPC-based optimal control strategies for HVAC&R systems  

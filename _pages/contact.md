@@ -16,4 +16,4 @@ I welcome opportunities for research collaboration, industry partnerships, and R
 
 📚 **Google Scholar:** [Scholar Profile](https://scholar.google.com/citations?user=RaCbNBcAAAAJ&hl=en)
 
-💻 **GitHub** [github.com/yuhang-zhang17](https://github.com/yuhang-zhang17)
+💻 **GitHub:** [github.com/yuhang-zhang17](https://github.com/yuhang-zhang17)

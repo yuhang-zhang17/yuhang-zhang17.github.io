@@ -1,50 +1,70 @@
+# ----------------
 # Site settings
-future: false
-title: Yuhang Zhang
-email: yuhang.zhang@tamu.edu
+# ----------------
+title: "Yuhang Zhang"
+name: "Yuhang Zhang"
+email: "yuhang.zhang@tamu.edu"
 
-description: >-
+description: >
   Ph.D. student researcher developing scalable modeling and optimization
-  for building and district energy systems. Focus areas include HVAC&R energy efficiency,
-  intelligent controls, heat pump technologies, and electrification of the built environment.
+  for building and district energy systems. Focus areas include HVAC&R
+  energy efficiency, intelligent controls, heat pump technologies,
+  and electrification of the built environment.
 
-# If this repo is yuhang-zhang17.github.io (user/organization site)
 url: "https://yuhang-zhang17.github.io"
-baseurl: ""  # keep empty for user site
+baseurl: ""
 
-github_username: yuhang-zhang17
-# twitter_username:  # not needed for job-search academic site
+repository: yuhang-zhang17/yuhang-zhang17.github.io
+
+timezone: America/Chicago
+locale: en-US
+
+# ----------------
+# Theme
+# ----------------
+remote_theme: "mmistakes/minimal-mistakes"
 
 minimal_mistakes_skin: air
+
 search: true
 
+# ----------------
 # Build settings
+# ----------------
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-
-# Outputting
+highlighter: rouge
 permalink: /:categories/:title/
-paginate: 0
-# paginate_path: /page:num/
-timezone: America/Chicago
+
+future: false
 
 include:
   - _pages
 
+# ----------------
 # Plugins
+# ----------------
 plugins:
-  # - jekyll-paginate
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
-# Author profile (sidebar)
+# ----------------
+# Author profile
+# ----------------
 author:
-  name   : "Yuhang Zhang"
-  avatar : "/assets/images/bio-photo.jpg"  # later replace with your headshot
-  bio: "Energy systems modeling & optimization • Intelligent controls (MPC) • HVAC&R efficiency • Heat pumps • Electrification"
+  name: "Yuhang Zhang"
+  avatar: "/assets/images/bio-photo.jpg"
+
+  bio: >
+    Energy systems modeling & optimization • Intelligent controls (MPC)
+    • HVAC&R efficiency • Heat pumps • Electrification
+
+  location: "Texas A&M University"
+
+  location: "College Station, TX"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -52,28 +72,26 @@ author:
 
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=RaCbNBcAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=RaCbNBcAAAAJ"
 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yuhangzhang3"
 
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/yuhang-zhang17"
-
-# Footer links (keep minimal)
+# ----------------
+# Footer
+# ----------------
 footer:
   links:
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/yuhang-zhang17"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:yuhang.zhang@tamu.edu"
 
+# ----------------
 # Defaults
+# ----------------
 defaults:
+
   - scope:
       path: "_pages"
       type: pages
@@ -83,16 +101,16 @@ defaults:
 
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
+      layout: single
       author_profile: true
+      read_time: true
+      share: false
 
-# category_archive:
-#   type: liquid
-#   path: /categories/
-# tag_archive:
-#   type: liquid
-#   path: /tags/
+# ----------------
+# Google Analytics
+# ----------------
 analytics:
   provider: "google-gtag"
   google:

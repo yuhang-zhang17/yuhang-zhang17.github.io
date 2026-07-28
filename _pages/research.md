@@ -80,16 +80,6 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ---
 
-## Engineering Contributions
-
-- Built reusable high-fidelity heat pump models (Modelica-based) 🔗[Github link](https://github.com/BE-HVACR/heatpump-models)
-- Developed scalable MPC frameworks for system-level energy optimization  
-- Integrated physics-based and data-driven modeling workflows  
-- Quantified energy flexibility and operational cost savings under dynamic conditions  
-- Conducted long-term techno-economic evaluations for electrified infrastructure  
-
----
-
 ## Tools & Technical Stack
 
 **Modeling & Simulation:** Modelica/Dymola, EnergyPlus, Ansys Fluent, EES  

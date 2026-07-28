@@ -18,6 +18,30 @@ education:
     institution: "Tongji University"
     location: "Shanghai, China"
     period: "Sep 2015 – Jul 2019"
+experience:
+  - title: "Graduate Research Assistant"
+    organization: "Texas A&M University"
+    location: "College Station, TX"
+    period: "Jan 2023 – Present"
+    bullets:
+      - "Develop high-fidelity simulations for building and district energy systems."
+      - "Conduct research on predictive controls and optimization for energy-efficient smart energy systems."
+      - "Contribute to NSF-, DoD-, and DOE-funded research projects."
+  - title: "PhD Intern"
+    organization: "Pacific Northwest National Laboratory (PNNL)"
+    location: "Richland, WA"
+    period: "Jun 2025 – Aug 2025"
+    bullets:
+      - "Validated DOE's TES Sizing Tool by executing 240+ parametric simulations under time-of-use and dynamic tariff scenarios."
+      - "Designed optimized Thermal Energy Storage (TES) control strategies, achieving up to 85% simulated cost reduction."
+      - "Collaborated with DOE's Stor4Build consortium to improve tool robustness for grid-interactive efficient buildings (GEBs)."
+  - title: "HVAC Engineer"
+    organization: "Envision Group"
+    location: "Shanghai, China"
+    period: "Jul 2022 – Dec 2022"
+    bullets:
+      - "Led development of HVAC optimization features (AHU/chiller control, fault detection & diagnostics) for a smart building energy management platform."
+      - "Coordinated with sales and development teams to align product design with client needs and market deployment."
 awards:
   - "ASHRAE Graduate Student Grant-in-Aid Award (2026)"
   - "J. George H. Thompson Graduate Fellowship (2025)"

@@ -67,6 +67,7 @@ sections:
         award: "Best Student Paper"
         doi_url: "https://doi.org/10.3384/ECP207119"
         doi_id: "10.3384/ECP207119"
+        code_url: "https://github.com/BE-HVACR/heatpump-models"
       - title: "A comparative analysis of energy performance of ultra-low temperature district heating and cooling networks with different substation configurations"
         authors: "<strong>Zhang, Y.</strong>, Liu, M., O'Neill, Z., & Wen, J."
         year: 2024

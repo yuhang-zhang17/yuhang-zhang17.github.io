@@ -26,6 +26,16 @@ author_profile: true
 {% endif %}
 {% endfor %}
 
+## Professional Experience
+
+Research projects are described in depth on the [Research](/research/) page.
+
+{% for e in site.data.cv.experience %}
+**{{ e.title }}** · {{ e.organization }}{% if e.location %}, {{ e.location }}{% endif %}  
+{{ e.period }}
+{% for b in e.bullets %}- {{ b }}
+{% endfor %}{% endfor %}
+
 ## Awards & Honors
 
 {% for a in site.data.cv.awards %}- {{ a }}

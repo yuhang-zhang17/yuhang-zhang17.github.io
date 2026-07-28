@@ -23,6 +23,7 @@ author_profile: true
 {% if pub.status %}{{ pub.status }} {% endif %}{% if pub.venue %}*{{ pub.venue }}*{% endif %}{% if pub.detail %}, {{ pub.detail }}{% endif %}.  
 {% if pub.award %}🏆 **{{ pub.award }}**  
 {% endif %}{% if pub.doi_url %}🔗 [DOI: {{ pub.doi_id }}]({{ pub.doi_url }})  
+{% endif %}{% if pub.code_url %}💻 [Code]({{ pub.code_url }})  
 {% endif %}
 {% endfor %}
 {% endfor %}

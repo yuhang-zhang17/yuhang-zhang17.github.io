@@ -92,7 +92,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ## Tools & Technical Stack
 
-**Modeling & Simulation:** Modelica/Dymola, EnergyPlus  
-**Optimization & Control:** Model Predictive Control (MPC), nonlinear optimization  
-**Programming:** Python, MATLAB  
-**Applications:** Heat pumps, TES, HVAC&R systems, building-to-district energy systems  
+**Modeling & Simulation:** Modelica/Dymola, EnergyPlus, Ansys Fluent, EES  
+**Optimization & Control:** Model Predictive Control (MPC), metaheuristic optimization, machine learning (neural networks, forecasting)  
+**Programming:** Python, MATLAB, C/C++  
+**Applications:** District heating and cooling (5GDHC), heat pumps, thermal energy storage, geothermal and PVT systems, grid-interactive efficient buildings, fault detection and diagnostics, life-cycle cost analysis  

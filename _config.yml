@@ -6,7 +6,7 @@ name: "Yuhang Zhang"
 email: "yuhang.zhang@tamu.edu"
 
 description: >
-  Ph.D. student researcher developing scalable modeling and optimization
+  Ph.D. candidate developing scalable modeling and optimization
   for building and district energy systems. Focus areas include HVAC&R
   energy efficiency, intelligent controls, heat pump technologies,
   and electrification of the built environment.
@@ -61,10 +61,8 @@ author:
     Energy systems modeling & optimization • Intelligent controls (MPC)
     • HVAC&R efficiency • Heat pumps • Electrification
 
-  location: "Texas A&M University"
+  location: "Texas A&M University · College Station, TX"
 
-  location: "College Station, TX"
-  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -77,6 +75,10 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yuhangzhang3"
+
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yuhang-zhang17"
 
 # ----------------
 # Footer

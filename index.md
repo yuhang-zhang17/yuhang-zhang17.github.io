@@ -6,7 +6,7 @@ title: "About"
 ---
 
 <!-- # Advancing Intelligent Energy Systems Through Modeling and Optimization -->
-I am a Ph.D. Student in the Department of Mechanical Engineering at Texas A&M University.
+I am a Ph.D. Candidate in the Department of Mechanical Engineering at Texas A&M University, advised by Prof. Zheng O'Neill, expecting to graduate in May 2027.
 
 I develop scalable modeling and control frameworks for building and district energy systems, with a focus on improving efficiency, operational flexibility, and electrification readiness.
 

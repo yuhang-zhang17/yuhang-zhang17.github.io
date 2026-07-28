@@ -26,7 +26,10 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 minimal_mistakes_skin: air
 
-search: true
+# Left off: Minimal Mistakes' lunr index only covers collections, and every page
+# here lives in _pages (site.pages), so the index built empty and every query
+# returned nothing. Re-enable only if _pages becomes a proper collection.
+search: false
 
 # ----------------
 # Build settings

@@ -38,14 +38,14 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ---
 
-### Demonstration of Building Energy Efficiency through Thermal Microgrids - Phase I Feasibility Study
+### Demonstration of Building Energy Efficiency through Thermal Microgrids in Fort Hood - Phase I Feasibility Study
 **Sponsor:** U.S. Department of Defense – SERDP / ESTCP  
 🔗 [Award Details](https://serdp-estcp.mil/projects/details/5561805a-f46a-4854-8f74-cc252917fa0c)
 
-- Conducted technical modeling and analysis for a DoD-funded study on district heating and cooling system retrofit at a U.S. Army installation.
-- Developed and validated Modelica digital twins and machine-learning load forecasting models for the installation's building stock.
+- Conducted technical modeling and analysis for a DoD-funded study on district heating and cooling system retrofit.
+- Developed and validated Modelica digital twins and machine-learning load forecasting models for 30+ buildings.
 - Implemented model predictive control optimization for plant operation and temperature reset strategies.
-- Quantified modeled energy savings from the retrofit and performed a life-cycle cost analysis.
+- Demonstrated modeled energy reductions of up to 70% and performed 30-year life-cycle cost analysis.
 
 
 **Technical Focus:** digital twin modeling • predictive control • lifecycle cost modeling  

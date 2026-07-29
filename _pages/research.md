@@ -27,7 +27,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 **Sponsor:** National Science Foundation (NSF PIRE)  
 🔗 [Award Details](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309030)
 
-- Developed a high-fidelity virtual testbed of district heat pump systems by integrating physics-based thermal models (EnergyPlus, Modelica) with AI-driven predictive control frameworks.
+- Developed a high-fidelity virtual testbed of district heat pump systems by integrating physics-based thermal models (Modelica) with AI-driven predictive control frameworks.
 - Built a Modelica-based fault library to represent common component faults in district and building energy systems and generate datasets for fault detection and diagnosis studies.
 - Developed and validated a water-to-air heat pump model using experimental datasets for accurate component-level performance prediction. 🔗 [Github link](https://github.com/BE-HVACR/heatpump-models)
 - Designed Model Predictive Control (MPC)-based optimal control frameworks for intelligent district energy system operation.
@@ -39,7 +39,8 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 ---
 
 ### Demonstration of Building Energy Efficiency through Thermal Microgrids - Phase I Feasibility Study
-**Sponsor:** U.S. Department of Defense – SERDP / ESTCP
+**Sponsor:** U.S. Department of Defense – SERDP / ESTCP  
+🔗 [Award Details](https://serdp-estcp.mil/projects/details/5561805a-f46a-4854-8f74-cc252917fa0c)
 
 - Conducted technical modeling and analysis for a DoD-funded study on district heating and cooling system retrofit at a U.S. Army installation.
 - Developed and validated Modelica digital twins and machine-learning load forecasting models for the installation's building stock.

@@ -6,7 +6,7 @@ author_profile: true
 
 I welcome opportunities for research collaboration, industry partnerships, and R&D positions in building energy systems, thermal networks, and model predictive control.
 
-**I expect to complete my Ph.D. in May 2027 and am open to conversations about research
+**I expect to complete my Ph.D. in Feb 2027 and am open to conversations about research
 scientist and R&D engineer roles.** My [CV](/cv/) has the full record.
 
 ---

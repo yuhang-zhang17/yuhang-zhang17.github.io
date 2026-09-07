@@ -13,7 +13,7 @@ classes: wide
 
 # Modeling and Control of Building & District Energy Systems
 
-I am a Ph.D. Candidate in the Department of Mechanical Engineering at Texas A&M University, advised by Prof. Zheng O'Neill, expecting to graduate in May 2027.
+I am a Ph.D. Candidate in the Department of Mechanical Engineering at Texas A&M University, advised by Prof. Zheng O'Neill, expecting to graduate in Feb 2027.
 
 I develop scalable modeling and control frameworks for building and district energy systems, with a focus on improving efficiency, operational flexibility, and electrification readiness.
 

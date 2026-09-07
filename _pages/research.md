@@ -28,8 +28,8 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 🔗 [Award Details](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309030)
 
 - Developed a high-fidelity virtual testbed of district heat pump systems by integrating physics-based thermal models (Modelica) with AI-driven predictive control frameworks.
-- Built a Modelica-based fault library to represent common component faults in district and building energy systems and generate datasets for fault detection and diagnosis studies.
-- Developed and validated a water-to-air heat pump model using experimental datasets for accurate component-level performance prediction. 🔗 [Github link](https://github.com/BE-HVACR/heatpump-models)
+- Developed a unified physics-based framework for system-level fault impact analysis in fifth-generation district heating and cooling systems; manuscript under review at *Energy & Buildings*.
+- Developed reversible water-to-air heat pump models with compressor-speed control, validated against manufacturer data and physical testbed measurements. The open-source [heatpump-models library](https://github.com/BE-HVACR/heatpump-models) accompanies the American Modelica Conference 2024 Best Student Paper.
 - Designed Model Predictive Control (MPC)-based optimal control frameworks for intelligent district energy system operation.
 - Applied the framework to assess renewable and waste heat integration (e.g., data center recovery), demonstrating improved efficiency and carbon reduction potential.
 
@@ -60,7 +60,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 - Developed an integrated simulation framework for system-level performance evaluation and annual operation analysis.
 - Developed detailed component-level models of PVT hybrid panels in Modelica.
 - Supported optimization of borehole design and loop temperature control strategies.
-- Reduced projected electricity consumption by 38% and eliminated natural gas use in retrofit scenario.
+- Produced simulations projecting about 38% lower electricity consumption than the existing heating, cooling, and domestic-hot-water systems and elimination of natural-gas use in the proposed all-electric retrofit.
 
 
 **Technical Focus:** renewable integration • system-level simulation • electrification modeling  
@@ -73,7 +73,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 - Validated DOE Thermal Energy Storage (TES) Sizing Tool via 240+ parametric simulations  
 - Evaluated time-of-use and dynamic tariff scenarios  
-- Designed optimized TES control strategies achieving up to 85% simulated cost reduction  
+- Designed optimized TES control strategies yielding up to 85% lower simulated operating costs relative to the original rule-based control in the best-performing scenario.  
 - Contributed to [DOE Stor4Build consortium](https://www.energy.gov/eere/buildings/stor4build) on grid-interactive efficient buildings (GEBs)  
 
 **Technical Focus:** tariff optimization • control strategy design • parametric analysis  
@@ -82,7 +82,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ## Tools & Technical Stack
 
-**Modeling & Simulation:** Modelica/Dymola, EnergyPlus, Ansys Fluent, EES  
-**Optimization & Control:** Model Predictive Control (MPC), metaheuristic optimization, machine learning (neural networks, forecasting)  
-**Programming:** Python, MATLAB, C/C++  
+**Modeling & Simulation:** Modelica/Dymola, FMI/FMU co-simulation, EnergyPlus/OpenStudio  
+**Optimization & Control:** Model Predictive Control (MPC), machine learning for thermal systems, numerical optimization  
+**Programming & Development:** Python, Git, MATLAB  
 **Applications:** District heating and cooling (5GDHC), heat pumps, thermal energy storage, geothermal and PVT systems, grid-interactive efficient buildings, fault detection and diagnostics, life-cycle cost analysis

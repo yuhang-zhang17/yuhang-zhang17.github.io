@@ -25,10 +25,11 @@ My work integrates physics-based modeling and simulation, data-driven methods, a
 
 ## News
 
+- **Sep 2026** — Our comparative study of energy flexibility in predictive-controlled single- and variable-speed heat pumps with active thermal energy storage appears in the September issue of *[Energy](https://doi.org/10.1016/j.energy.2026.141387)*.
 - **Jul 2026** — Our scientific machine learning approach to geothermal borefield thermal modeling appeared at the 9th International High Performance Buildings Conference at Purdue (Herrick Conferences), West Lafayette, IN.
 - **2026** — Received the **ASHRAE Graduate Student Grant-in-Aid Award**.
-- **2026** — Our study on energy flexibility of predictive-controlled heat pumps with active thermal energy storage was published in *[Energy](https://doi.org/10.1016/j.energy.2026.141387)*, alongside a nationwide assessment in *[Building Simulation](https://doi.org/10.1007/s12273-026-1421-4)*.
-- **2025** — Joined **Pacific Northwest National Laboratory** as a Ph.D. Intern, working on DOE's Thermal Energy Storage Sizing Tool with the Stor4Build consortium.
+- **Mar 2026** — Our nationwide assessment of energy flexibility from predictive-controlled heat pumps with active thermal energy storage was published online in *[Building Simulation](https://doi.org/10.1007/s12273-026-1421-4)*.
+- **Jun 2025** — Joined **Pacific Northwest National Laboratory** as a Ph.D. Intern, working on DOE's Thermal Energy Storage Sizing Tool with the Stor4Build consortium.
 - **2025** — Awarded the **J. George H. Thompson Graduate Fellowship**.
 
 ---

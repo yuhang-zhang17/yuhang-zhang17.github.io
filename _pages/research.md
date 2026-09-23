@@ -44,7 +44,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 - Conducted technical modeling and analysis for a DoD-funded study on district heating and cooling system retrofit.
 - Developed and validated Modelica digital twins and machine-learning load forecasting models for 30+ buildings.
-- Implemented model predictive control optimization for plant operation and temperature reset strategies.
+- Developed and evaluated model predictive control strategies for plant operation and temperature reset in Modelica digital-twin simulations.
 - Produced scenario-specific simulations projecting nearly 68% lower annual district thermal-system energy input for the best-performing 5GDHC retrofit relative to the existing modeled baseline and performed a 30-year NIST BLCC life-cycle cost analysis.
 
 

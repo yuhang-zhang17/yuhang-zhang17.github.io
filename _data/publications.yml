@@ -42,6 +42,11 @@ sections:
         detail: "12, 786–797"
         doi_url: "https://doi.org/10.26868/30680611.2026.1367"
         doi_id: "10.26868/30680611.2026.1367"
+      - title: "A Scientific Machine Learning Approach for Geothermal Borefield Thermal Modeling via Residual Learning"
+        authors: "Guan, H., <strong>Zhang, Y.</strong>, O'Neill, Z., & Dong, B."
+        year: 2026
+        venue: "Proceedings of the 9th International High Performance Buildings Conference at Purdue"
+        detail: "Paper 3273, 1–10"
       - title: "Operating temperature optimization for a 5th-generation district heating and cooling network using model predictive control"
         authors: "<strong>Zhang, Y.</strong>, Liu, M., O'Neill, Z., & Wen, J."
         year: 2025

@@ -27,7 +27,7 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 **Sponsor:** National Science Foundation (NSF PIRE)  
 🔗 [Award Details](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309030)
 
-- Developed a high-fidelity virtual testbed of district heat pump systems by integrating physics-based thermal models (Modelica) with AI-driven predictive control frameworks.
+- Built a physics-based Modelica virtual testbed of district heat pump systems and led analysis of network designs and operating strategies.
 - Developed a unified physics-based framework for system-level fault impact analysis in fifth-generation district heating and cooling systems; manuscript under review at *Energy & Buildings*.
 - Developed reversible water-to-air heat pump models with compressor-speed control, validated against manufacturer data and physical testbed measurements. The open-source [heatpump-models library](https://github.com/BE-HVACR/heatpump-models) accompanies the American Modelica Conference 2024 Best Student Paper.
 - Designed Model Predictive Control (MPC)-based optimal control frameworks for intelligent district energy system operation.
@@ -43,9 +43,10 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 🔗 [Award Details](https://serdp-estcp.mil/projects/details/5561805a-f46a-4854-8f74-cc252917fa0c)
 
 - Conducted technical modeling and analysis for a DoD-funded study on district heating and cooling system retrofit.
-- Developed and validated Modelica digital twins and machine-learning load forecasting models for 30+ buildings.
+- Built Modelica virtual testbeds for 30+ Fort Hood buildings and reconstructed hourly heating and cooling loads with XGBoost.
 - Developed and evaluated model predictive control strategies for plant operation and temperature reset in Modelica digital-twin simulations.
-- Produced scenario-specific simulations projecting nearly 68% lower annual district thermal-system energy input for the best-performing 5GDHC retrofit relative to the existing modeled baseline and performed a 30-year NIST BLCC life-cycle cost analysis.
+- Compared retrofit concepts; one building cluster showed nearly 68% lower modeled annual district thermal-system energy input than its existing-system baseline.
+- Supported NIST BLCC life-cycle cost comparisons of retrofit alternatives with different study periods.
 
 
 **Technical Focus:** digital twin modeling • predictive control • lifecycle cost modeling  
@@ -56,11 +57,10 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 **Sponsor:** U.S. Department of Energy (DOE)  
 🔗 [Award Details](https://www.energy.gov/nepa/articles/cx-028810-demonstration-solar-geothermal-district-heating-and-cooling-system-single)
 
-- Contributed to the design of a 100% electrified geothermal district energy system for an Oklahoma tribal community.
-- Developed an integrated simulation framework for system-level performance evaluation and annual operation analysis.
-- Developed detailed component-level models of PVT hybrid panels in Modelica.
-- Supported optimization of borehole design and loop temperature control strategies.
-- Produced simulations projecting about 38% lower electricity consumption than the existing heating, cooling, and domestic-hot-water systems and elimination of natural-gas use in the proposed all-electric retrofit.
+- Developed the Modelica system model for a proposed all-electric, single-pipe geothermal district network, integrating borefields, building heat pumps, and the distribution loop.
+- Analyzed annual borefield thermal balance and compared pumping and loop-temperature control strategies in simulation to support Phase I design decisions.
+- Developed photovoltaic-thermal (PVT) collector models for a separate Denver 5GDHC virtual testbed, documented in a 2025 conference paper; this was distinct from the Citizen Potawatomi Nation Phase I case.
+- Phase I simulations projected about 38% lower electricity use than the existing heating, cooling, and domestic-hot-water systems and elimination of on-site natural-gas use for the proposed design.
 
 
 **Technical Focus:** renewable integration • system-level simulation • electrification modeling  
@@ -71,9 +71,8 @@ I develop scalable modeling, optimization, and intelligent control frameworks fo
 
 ### Thermal Energy Storage Optimization – Pacific Northwest National Laboratory (PNNL)
 
-- Validated DOE Thermal Energy Storage (TES) Sizing Tool via 240+ parametric simulations  
-- Evaluated time-of-use and dynamic tariff scenarios  
-- Designed optimized TES control strategies yielding up to 85% lower simulated operating costs relative to the original rule-based control in the best-performing scenario.  
+- Built a Python workflow for DOE's Thermal Energy Storage (TES) Sizing Tool, generating 240 case configurations to compare storage capacities and time-of-use tariff options.
+- Developed chilled-water TES control strategies and compared modeled daily utility costs against schedule-based TES control across four representative-day simulations.
 - Contributed to [DOE Stor4Build consortium](https://www.energy.gov/eere/buildings/stor4build) on grid-interactive efficient buildings (GEBs)  
 
 **Technical Focus:** tariff optimization • control strategy design • parametric analysis  
